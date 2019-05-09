@@ -1,0 +1,84 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+h3,h4,p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#section1{
+   margin-left: 150px;
+   width: 60%;
+}
+#section2{
+    float: right;
+    border-width: 60%;    
+    margin-top: -500px;
+    margin-right: 500px;
+
+}
+.rupees{
+    color: red;
+}
+ul{
+    list-style: none;
+}
+.book-logo{
+    margin-top:200px;
+}
+button{
+    padding: 1em 5em;
+    font-size: x-large;
+    color: white;
+    background-color: #f2849e;
+    border: none;
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color:#ed4b74;
+}
+img{
+    border-width: 30px;
+    padding-top: 30px;
+}
+#first-heading{
+    border-bottom: 2px solid grey;   
+}
+#second-heading{
+    border-bottom: 2px solid grey;
+}
+li a{
+    float: right;
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-weight: bold; 
+}
+i{
+    margin-right: 10px;
+}
+#para1{
+    margin-right: 56px;
+    margin-left: 153px;
+    border: 2px solid grey;
+    border-left: none;
+    border-right: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#para2{
+    margin-right: 56px;
+    margin-left: 153px;
+    border: 2px solid grey;
+    border-left: none;
+    border-right: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#para3{
+    margin-right: 56px;
+    margin-left: 153px;
+    border: 2px solid grey;
+    border-left: none;
+    border-right: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
