@@ -2,8 +2,12 @@
 h3,h4,p{
     font-family: 'Source Sans Pro', sans-serif;
 }
+#main{
+    display: flex;
+    flex-direction: row
+}
 
-#section1{
+#book-logo{
 /*    margin-left: 150px; */
    width: 60%;
     display: flex;
