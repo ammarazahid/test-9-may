@@ -77,8 +77,9 @@ i{
     margin-right: 56px;
     margin-left: 153px;
     border: 2px solid grey;
-    border-left: none;
+/*     border-left: none;
     border-right: none;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 20px; */
+    justify-content: center;
 }
