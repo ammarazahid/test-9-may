@@ -4,14 +4,18 @@ h3,h4,p{
 }
 
 #section1{
-   margin-left: 150px;
+/*    margin-left: 150px; */
    width: 60%;
+    display: flex;
+    flex-direction: left;
 }
 #section2{
     float: right;
     border-width: 60%;    
-    margin-top: -500px;
-    margin-right: 500px;
+/*     margin-top: -500px;
+    margin-right: 500px; */
+    display: flex;
+    flex-direction: right;
 
 }
 .rupees{
