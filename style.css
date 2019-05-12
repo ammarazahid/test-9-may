@@ -4,11 +4,11 @@ h3,h4,p{
 }
 #main{
     display: flex;
-    flex-direction: row
+    flex-direction: row;
 }
 
 #book-logo{
-   margin-left: 150px;
+    margin-left: 150px;
     width: 60%;
     display: flex;
     flex-direction: left;
@@ -26,6 +26,7 @@ h3,h4,p{
 }
 ul{
     list-style: none;
+      flex: 1;
 }
 .book-logo{
     margin-top:200px;
@@ -58,7 +59,7 @@ li a{
     font-weight: bold;
     display: flex;
     justify-content: space-arround;
-    flex: 1;
+  
 }
 i{
     margin-right: 10px;
