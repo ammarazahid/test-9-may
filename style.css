@@ -19,7 +19,7 @@ h3,h4,p{
     margin-top: -500px;
     margin-right: 500px;
     display: flex;
-    flex-direction: column;
+    flex-direction: ;
 }
 .rupees{
     color: red;
@@ -51,13 +51,14 @@ img{
 #second-heading{
     border-bottom: 2px solid grey;
 }
-#nav li a{
+li a{
     float: right;
     text-decoration: none;
     color: black;
     font-weight: bold;
     display: flex;
     justify-content: space-arround;
+    flex: 1;
 }
 i{
     margin-right: 10px;
@@ -81,12 +82,11 @@ i{
     padding-bottom: 20px;
 }
 #para3{
-/*     margin-right: 56px;
-    margin-left: 153px; */
+    margin-right: 56px;
+    margin-left: 153px;
     border: 2px solid grey;
     border-left: none;
     border-right: none;
     padding-top: 20px;
     padding-bottom: 20px;
-    justify-content: center;
 }
