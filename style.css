@@ -25,9 +25,16 @@ h3,h4,p{
     color: red;
 }
 ul{
-    list-style: none;
-      flex: 1;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
+
+li{
+    float: right;
+}
+
 .book-logo{
     margin-top:200px;
 }
@@ -53,12 +60,11 @@ img{
     border-bottom: 2px solid grey;
 }
 li a{
-    float: right;
-    text-decoration: none;
-    color: black;
-    font-weight: bold;
-    display: flex;
-    justify-content: space-arround;
+   display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
   
 }
 i{
