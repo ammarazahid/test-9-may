@@ -65,11 +65,11 @@ li a{
   text-align: center;
   padding: 14px 16px;
   text-decoration: none; */
-     color: black;
+  color: black;
   display: block;
   padding: 8px;
   background-color: #dddddd;
-  margin: 10px;
+  margin-left: 10px;
   text-decoration: none;
   
 }
