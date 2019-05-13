@@ -60,10 +60,16 @@ img{
     border-bottom: 2px solid grey;
 }
 li a{
-   display: block;
+/*    display: block;
   color: black;
   text-align: center;
   padding: 14px 16px;
+  text-decoration: none; */
+     color: black;
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+  margin: 10px;
   text-decoration: none;
   
 }
