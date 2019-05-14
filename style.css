@@ -12,7 +12,7 @@ header {
 main {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -31,22 +31,11 @@ main {
     color: red;
 }
 
-nav{
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: flex-end;
-    
-}
-
 ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
   
-}
-
-li{
-    float: right;
 }
 
 .book-logo {
