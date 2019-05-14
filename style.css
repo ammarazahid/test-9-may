@@ -16,11 +16,6 @@ main {
     align-items: center;
 }
 
-.book-logo{
-    width: 50%;
-
-}
-
 #section2 {
     border-width: 60%;  
     display: flex;
@@ -59,7 +54,7 @@ button:hover{
 img{
        
     height: 376px;
-    margin-left: 158px;
+    margin-left: 100px;
     border: 10px solid grey;
     border-bottom: none;
     border-top: none;
