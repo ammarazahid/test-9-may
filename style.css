@@ -6,8 +6,8 @@ h3,h4,p{
 header {
     display: flex;
     flex-direction: row;
-    justify-content: flex-end
-}       
+    justify-content: flex-end;
+}     
         
 main {
     display: flex;
