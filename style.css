@@ -123,7 +123,7 @@ i{
     padding-bottom: 20px;
 }
 
-@media:(max-width:600){
+@media screen and (max-width: 600px){
     nav{
         display: none;
     
