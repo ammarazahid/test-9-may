@@ -8,51 +8,66 @@ main {
 }
 
 #book-logo{
-    margin-left: 150px;
     width: 60%;
 }
-#section2{
-    border-width: 60%;    
+
+#section2 {
+    border-width: 60%;  
+    display: flex;
+    flex-direction: row;
 
 }
+
 .rupees{
     color: red;
 }
+
+nav{
+    display: flex;
+    flex-direction: row;
+}
+
 ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  
 }
 
 li{
     float: right;
 }
 
-.book-logo{
+.book-logo {
     margin-top:200px;
 }
-button{
+
+button {
     padding: 1em 5em;
     font-size: x-large;
     color: white;
     background-color: #f2849e;
     border: none;
     margin-bottom: 10px;
-}
+} 
+
 button:hover{
     background-color:#ed4b74;
 }
+
 img{
     border-width: 30px;
     padding-top: 30px;
 }
+
 #first-heading{
     border-bottom: 2px solid grey;   
 }
+
 #second-heading{
     border-bottom: 2px solid grey;
 }
+
 li a{
 /*    display: block;
   color: black;
@@ -67,9 +82,11 @@ li a{
   text-decoration: none;
   
 }
+
 i{
     margin-right: 10px;
 }
+
 #para1{
     margin-right: 56px;
     margin-left: 153px;
@@ -79,6 +96,7 @@ i{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
 #para2{
     margin-right: 56px;
     margin-left: 153px;
@@ -88,6 +106,7 @@ i{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
 #para3{
     margin-right: 56px;
     margin-left: 153px;
