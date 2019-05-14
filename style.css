@@ -39,6 +39,10 @@ ul{
   
 }
 
+li{
+    float: right;
+}
+
 button {
     padding: 1em 5em;
     font-size: x-large;
