@@ -24,7 +24,7 @@ main {
 
 nav{
     display: flex;
-    flex-direction: row;
+    flex-direction: right;
     
 }
 
@@ -60,6 +60,7 @@ button:hover{
 img{
     border-width: 30px;
     padding-top: 30px;
+    border: 30px 10px solid grey;
 }
 
 #first-heading{
