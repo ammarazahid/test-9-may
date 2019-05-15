@@ -128,5 +128,10 @@ i{
     main{
         flex-direction: column;
     }
+    #hamburger{
+        height: 50px;
+        width: 50px;
+    }
     
 }
+  
