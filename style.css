@@ -7,7 +7,11 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-}     
+}   
+
+#hamburger{
+    diplay: none;
+}
         
 main {
     display: flex;
@@ -128,6 +132,7 @@ i{
     main{
         flex-direction: column;
     }
+    
     #hamburger{
         height: 50px;
         width: 50px;
