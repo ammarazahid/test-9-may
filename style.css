@@ -2,6 +2,9 @@
 h3,h4,p{
     font-family: 'Source Sans Pro', sans-serif;
 }
+body{
+    background-color: grey;
+}
 
 header {
     display: flex;
@@ -11,6 +14,8 @@ header {
 
 section{
     width: 800px;
+    margin: auto;
+    background-color: white;
 }
 
 #hamburger{
