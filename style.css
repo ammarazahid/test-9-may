@@ -14,9 +14,16 @@ header {
     background-color: white;
 }
 
-figure img{
-    width: 60px;
-    height: 50px;
+figure{
+    display: flex;
+    flex-direction: flex-start;
+    
+}
+
+#logo{
+    width: 50px;
+    height: 60px;
+    
 }
 
 figurecaption{
