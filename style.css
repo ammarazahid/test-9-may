@@ -13,11 +13,16 @@ header {
     height: 60px;
     background-color: white;
 }
- 
-#logo {
-    color: ;
+
+figure img{
+    width: 60px;
+    height: 50px;
 }
 
+figurecaption{
+    color: pink;
+}
+    
 section{
     width: 800px;
     margin: auto;
