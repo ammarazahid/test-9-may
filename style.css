@@ -11,6 +11,7 @@ header {
     flex-direction: row;
     justify-content: flex-end;
     height: 60px;
+    background-color: white;
 }
 
 section{
@@ -20,7 +21,7 @@ section{
 }
 
 #section2 img{
-    width: 60px;
+    width: 50px;
     height:20px;
 }
 
