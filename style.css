@@ -11,8 +11,6 @@ header {
 
 #hamburger{
     display: none;
-    height: 50px;
-    width: 50px;
     
 }
         
@@ -66,7 +64,7 @@ img{
     border-top: none;
 }
 .book-logo{
-    width: 30%;
+    width: 54%;
 }
 
 #first-heading{
