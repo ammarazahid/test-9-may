@@ -92,8 +92,20 @@ i{
     margin-right: 10px;
 }
 
-#para1{
-    margin-right: 56px;
+#footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid grey;
+    border-left: none;
+    border-right: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* #para1{ */
+/*     margin-right: 56px;
     margin-left: 153px;
     border: 2px solid grey;
     border-left: none;
@@ -121,7 +133,7 @@ i{
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
+ */
 @media screen and (max-width: 600px){
     nav{
         display: none;
