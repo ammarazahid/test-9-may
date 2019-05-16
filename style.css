@@ -94,7 +94,7 @@ i{
 
 #footer {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     border: 2px solid grey;
