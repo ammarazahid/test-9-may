@@ -19,6 +19,11 @@ section{
     background-color: white;
 }
 
+#section2 img{
+    width: 60px;
+    height:20px;
+}
+
 #hamburger{
     display: none;
     
