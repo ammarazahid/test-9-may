@@ -97,16 +97,10 @@ i{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 2px solid grey;
-    border-left: none;
-    border-right: none;
-    padding-top: 20px;
-    padding-bottom: 20px;
+
 }
 
-/* #para1{ */
-/*     margin-right: 56px;
-    margin-left: 153px;
+#para1{
     border: 2px solid grey;
     border-left: none;
     border-right: none;
@@ -115,8 +109,6 @@ i{
 }
 
 #para2{
-    margin-right: 56px;
-    margin-left: 153px;
     border: 2px solid grey;
     border-left: none;
     border-right: none;
@@ -125,15 +117,15 @@ i{
 }
 
 #para3{
-    margin-right: 56px;
-    margin-left: 153px;
+    
+  
     border: 2px solid grey;
     border-left: none;
     border-right: none;
     padding-top: 20px;
     padding-bottom: 20px;
 }
- */
+
 @media screen and (max-width: 600px){
     nav{
         display: none;
