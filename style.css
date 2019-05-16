@@ -11,6 +11,11 @@ header {
 
 #hamburger{
     diplay: none;
+    display: flex;
+    flex-direction: flex-end;
+    height: 50px;
+    width: 50px;
+    
 }
         
 main {
@@ -136,6 +141,7 @@ i{
     #hamburger{
         height: 50px;
         width: 50px;
+        display: flex;
     }
     
 }
