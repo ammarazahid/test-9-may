@@ -10,9 +10,7 @@ header {
 }   
 
 #hamburger{
-    diplay: none;
-    display: flex;
-    flex-direction: flex-end;
+    display: none;
     height: 50px;
     width: 50px;
     
