@@ -188,5 +188,9 @@ i{
         display: flex;
         flex-direction: center;
     }
+    
+    figure{
+        display: none;
+    }
 }
   
