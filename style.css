@@ -147,6 +147,10 @@ i{
     margin-right: 50px;
 }
 
+#para1 a{
+    text-decoration: none;
+}
+
 #para2{
     border: 2px solid grey;
     border-left: none;
