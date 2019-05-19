@@ -14,9 +14,10 @@ header {
     background-color: white;
 }
 
-figure{
+header=div{
     display: flex;
-    flex-direction: flex-start;
+    flex-direction: column;
+    justify-content: flex-start;
     
 }
 
