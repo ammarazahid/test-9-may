@@ -14,18 +14,12 @@ header {
     background-color: white;
 }
 
-header~div{
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    
-}
 
 #logo{
     margin-right: auto;
 }
 
-.logo{
+#logo img{
     width: 50px;
     height: 60px;
     
