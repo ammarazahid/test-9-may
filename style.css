@@ -14,7 +14,7 @@ header {
     background-color: white;
 }
 
-header=div{
+header+div{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -27,7 +27,7 @@ header=div{
     
 }
 
-figcaption{
+header h2{
     color: pink;
 }
     
