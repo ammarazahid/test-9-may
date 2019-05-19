@@ -14,14 +14,14 @@ header {
     background-color: white;
 }
 
-header + div{
+header~div{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     
 }
 
-#logo{
+.logo{
     width: 50px;
     height: 60px;
     
