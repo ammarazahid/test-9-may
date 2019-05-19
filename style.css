@@ -156,6 +156,9 @@ i{
     border-right: none;
     padding-top: 20px;
     padding-bottom: 20px;
+    display: flex;
+   justify-content: left;
+    align-items: left;
 }
 
 #para3{
