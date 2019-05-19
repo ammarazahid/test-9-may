@@ -21,6 +21,10 @@ header~div{
     
 }
 
+#logo{
+    margin-right: auto;
+}
+
 .logo{
     width: 50px;
     height: 60px;
