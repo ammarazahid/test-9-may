@@ -16,10 +16,12 @@ header {
 
 figure{
     margin-right: auto;
+}
+
+figure img{
       width: 50px;
     height: 60px;
 }
-
 
 figcaption{
     color: pink;
