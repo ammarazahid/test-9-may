@@ -14,18 +14,17 @@ header {
     background-color: white;
 }
 
-
-#logo{
+figure{
     margin-right: auto;
 }
 
-#logo img{
+figure{
     width: 50px;
     height: 60px;
     
 }
 
-header h2{
+figcaption{
     color: pink;
 }
     
